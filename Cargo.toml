@@ -1,0 +1,9 @@
+[package]
+name = "plotters-druid"
+version = "0.1.0"
+authors = ["mobile-bungalow <pwmay@ucsc.edu>"]
+edition = "2018"
+
+[dependencies]
+druid = "*"
+plotters-backend = "0.3.0"
